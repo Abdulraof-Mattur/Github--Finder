@@ -1,3 +1,3 @@
 # Github-finder
 
-https://abdulraof-mattur.github.io/Github-finder/
+https://github.com/Abdulraof-Mattur/Github--Finder.git
